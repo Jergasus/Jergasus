@@ -1,32 +1,17 @@
 ## Hey there 👋
 
-I'm Jesús, a developer focused on clean design and meaningful digital experiences.
+I'm Jesús, a developer based in Spain.
 
-I build things that look good, feel right, and actually matter.  
-If I have an idea, chances are I'll try to turn it into a real product.
+I design and build whatever I can imagine.
 
----
+If an idea pops into my head, chances are I'll build it and ship it.
 
-### 🚀 What I'm currently doing
-- Building personal projects and improving my skills
-- Exploring new ideas and turning them into real apps
+### What I use
+My main tech stack is react, typescript, tailwind, framer motion and node.js. I usually use figma and procreate for design ideas.
 
----
+I've got a few projects, but my favorite is SakurAI[https://github.com/Jergasus/SakurAI]
 
-### 🛠️ Tools I use
-- Modern web technologies
-- Design-driven workflows
-- Clean and simple architectures
-
----
-
-### 📫 Reach me
-- 💼 LinkedIn: https://www.linkedin.com/in/jesús-josé-garcía-ayala-716294331/
-- 🌐 Portfolio: https://jergasus.github.io
-
----
-
-### ⚡ Fun facts
-- I enjoy building things from scratch  
-- I like simple, clean and well-designed products  
-- Always learning and improving 🚀
+### Fun facts
+- Haikyuu is my favorite anime
+- I love Jordan sneakers
+- Hobbies: anime, videogames, gym, building things
