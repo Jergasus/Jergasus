@@ -9,7 +9,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 ### What I use
 My main tech stack is react, typescript, tailwind, framer motion and node.js. I usually use figma and procreate for design ideas.
 
-I've got a few projects, but my favorite is SakurAI[https://github.com/Jergasus/SakurAI]
+I've got a few projects, but my favorite is [SakurAI](https://github.com/Jergasus/SakurAI)
 
 ### Fun facts
 - Haikyuu is my favorite anime
